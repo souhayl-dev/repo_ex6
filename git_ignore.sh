@@ -1,1 +1,1 @@
-git ls-files --exclude-per-directory=README.md
+git ls-files -X README.md
